@@ -11,7 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <!--<run_depend>control</run_depend>-->
-  <run_depend>geometry_experimental</run_depend>
+  <run_depend>geometry2</run_depend>
   <run_depend>joystick_drivers</run_depend>
   <!--<run_depend>mobile</run_depend>-->
   <!--<run_depend>object_manipulation</run_depend>-->
