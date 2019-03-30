@@ -2,6 +2,11 @@
 Changelog for package pr2
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* fixed dependencies on two packages (hokuyo_node and geometry_experimental) whose names have changed (urg_node and geometry2)
+* Contributors: David Feil-Seifer
+
 1.1.2 (2018-04-22)
 ------------------
 * fixed spelling of hokuyo
